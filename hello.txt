@@ -1,1 +1,1 @@
-github say hello to git!
+github say hello to git：master branch
